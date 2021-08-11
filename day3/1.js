@@ -1,0 +1,1 @@
+const friends = ["dinesh", "mahesh", "s"];
